@@ -1,0 +1,45 @@
+img{
+   width: 80%;
+   height: 70%;
+   margin-left: 10%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    margin-top: 1%;
+    font-weight: 900;
+}
+
+h2{
+    margin-left: 10%;
+    font-weight: bold;
+}
+
+p{
+    margin-left: 10%;
+    font-style: normal;
+    font-size: 21px;
+    margin-top: 7px;
+    line-height: 25px;
+}
+
+div{
+    border: 5px solid white;
+    margin-left: 9%;
+    font-size: 27px;
+}
+    
+.icons a{
+   color:  #ababab;
+   display: inline-block;
+   transition: transform 0.5s;
+}
+.icons a:hover{
+    color: #ff004f;
+    transform: translateY(-5px);
+}
